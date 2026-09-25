@@ -93,7 +93,7 @@ module.exports = {
 ┃❖ ${totalDays} Days
 ┃❖ ${totalHours} Hours
 ┣━━━━━━━━━━━━━━━━❂
-┃  𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆: ─꯭─⃝‌‌𝗦𝗨𝗛𝗔𝗡 𝗩𝗛𝗔𝗧 𝗕𝗢𝗧 🤖🔥
+┃  𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆: ─꯭─⃝‌‌🔥🤖 𝗦𝗨𝗛𝗔𝗡 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧 🤖🔥
 ┗━━━━━━━━━━━━━━━━❂`,
         attachment: fs.createReadStream(avatarPath)
       };
